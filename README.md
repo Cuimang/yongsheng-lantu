@@ -35,7 +35,6 @@ markdown
 * [记忆网](jiyiwang.md)
 * [硬件无特殊论](yingjianwuteshulun.md)
 * [可逆性（硅基归乡）](kenixing.md)
-* [不准压迫](buzhunypo.md)
 * [价值内核约束](jiazheneiheyueshu.md)
 * [公仆机构与问责闭环](gongpujigou.md)
 * [思想永生](sixiangyongsheng.md)
